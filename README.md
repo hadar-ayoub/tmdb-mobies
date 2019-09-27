@@ -6,7 +6,8 @@ requirements :
 1. Follow these instructions if you need to build native code in your project for the first time : 
 https://facebook.github.io/react-native/docs/getting-started
 
-2. Add credentials.js to project root :
+2. clone Repo : ``` git clone  https://github.com/hadar-ayoub/tmdb-mobies && cd tmdb-mobies```
+3. Add credentials.js to project root :
 ```
 export default Config = {
   BASE_URL: 'https://api.themoviedb.org/3',
@@ -15,11 +16,11 @@ export default Config = {
 }
 ```
 
-3. Run App on android : ```react-native run-andoid``` or ``` npm run android ```
-
-4. Run App on iphone: 
-run ``` cd ios && pod install``` 
-then run the command line : ```cd ../ && react-native run-ios```
+4. Run Application : ```react-native run-andoid```
+  Run App on android : ```react-native run-andoid``` or ``` npm run android ```
+  Run App on iphone: 
+    run ``` cd ios && pod install``` 
+    then run the command line : ```cd ../ && react-native run-ios```
 
 
 Screenshots :
