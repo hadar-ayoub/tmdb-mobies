@@ -7,7 +7,7 @@ requirements :
 https://facebook.github.io/react-native/docs/getting-started
 
 2. clone Repo : ``` git clone  https://github.com/hadar-ayoub/tmdb-mobies && cd tmdb-mobies```
-3. Add credentials.js to project root :
+3. Add ```credentials.js``` to project root :
 ```
 export default Config = {
   BASE_URL: 'https://api.themoviedb.org/3',
