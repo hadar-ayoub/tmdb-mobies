@@ -12,7 +12,7 @@ export default class Details extends Component {
   render () {
     return (
       <MovieItem
-        movie={movies}
+        movie={this.movies}
         onPressItem={() => {}}
       />
     )
