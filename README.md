@@ -1,5 +1,5 @@
-# tmdb-mobies
-List Mobies TMDb
+# tmdb-movies
+List Movies TMDb
 
 requirements :
 
