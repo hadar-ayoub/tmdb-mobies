@@ -2,6 +2,9 @@
 #
 .DS_Store
 
+# TMDBCredentials
+credentials.js
+
 # Xcode
 #
 build/
@@ -21,6 +24,7 @@ DerivedData
 *.ipa
 *.xcuserstate
 project.xcworkspace
+Pods
 
 # Android/IntelliJ
 #
