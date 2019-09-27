@@ -1,9 +1,6 @@
 # tmdb-mobies
 List Mobies TMDb
 
-
-
-
 requirements :
 
 1. Follow these instructions if you need to build native code in your project for the first time : 
@@ -23,3 +20,8 @@ export default Config = {
 4. Run App on iphone: 
 run ``` cd ios && pod install``` 
 then run the command line : ```cd ../ && react-native run-ios```
+
+
+Screenshots :
+
+<img src="https://user-images.githubusercontent.com/5258992/65748411-2a75e900-e104-11e9-97a6-06e92a8b8d90.png" alt="drawing" width="250"/> <img src="https://user-images.githubusercontent.com/5258992/65748412-2a75e900-e104-11e9-95d6-58941dc335c6.png" alt="drawing" width="250"/> <img src="https://user-images.githubusercontent.com/5258992/65748410-29dd5280-e104-11e9-8539-a5ca1a683c5a.png" alt="drawing" width="250"/>  
