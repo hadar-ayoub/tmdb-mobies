@@ -19,9 +19,9 @@ export default Config = {
 
 4. install project dependencies : ```yarn``` or ```npm install```
 
-5. run the app :
-  Run App on an android emulator: ```react-native run-andoid``` or ``` yarn run android ``` or ``` npm run android ```
-  Run App on an iphone simulator:  (installing pods on ios is required :  ``` cd ios && pod install```)
+5. Run App on an android emulator: ```react-native run-andoid``` or ``` yarn run android ``` or ``` npm run android ```
+
+6. Run App on an iphone simulator:  (installing pods on ios is required :  ``` cd ios && pod install```)
     or excute command line : ```react-native run-ios``` or ```yarn run ios```  or ```npm run ios``` 
 
 Screenshots :
