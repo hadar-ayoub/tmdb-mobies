@@ -1,12 +1,13 @@
 # tmdb-movies
 List Movies TMDb
 
-requirements :
+Requirements :
 
-1. Follow these instructions if you need to build native code in your project for the first time : 
+1. Follow these instructions to build native code in your project : 
 https://facebook.github.io/react-native/docs/getting-started
 
-2. clone Repo : ``` git clone  https://github.com/hadar-ayoub/tmdb-mobies && cd tmdb-mobies```
+2. clone Repo : ``` git clone https://github.com/hadar-ayoub/tmdb-movies.git && cd tmdb-mobies```
+
 3. Add ```credentials.js``` to project root :
 ```
 export default Config = {
@@ -16,12 +17,12 @@ export default Config = {
 }
 ```
 
-4. Run Application : ```react-native run-andoid```
-  Run App on android : ```react-native run-andoid``` or ``` npm run android ```
-  Run App on iphone: 
-    run ``` cd ios && pod install``` 
-    then run the command line : ```cd ../ && react-native run-ios```
+4. install project dependencies : ```yarn``` or ```npm install```
 
+5. run the app :
+  Run App on an android emulator: ```react-native run-andoid``` or ``` yarn run android ``` or ``` npm run android ```
+  Run App on an iphone simulator:  (installing pods on ios is required :  ``` cd ios && pod install```)
+    or excute command line : ```react-native run-ios``` or ```yarn run ios```  or ```npm run ios``` 
 
 Screenshots :
 
